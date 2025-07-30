@@ -1,0 +1,5 @@
+streamlit
+spacy
+language-tool-python
+pytesseract
+PyPDF2
